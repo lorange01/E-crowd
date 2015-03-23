@@ -1,0 +1,147 @@
+
+
+header{
+
+	width: 1590px;
+	height:185px;
+	background-color: #848484;
+	font-family: comic sans MS;
+	color: #221401;
+	
+	
+	border-width: 3px 3px 3px 3px;
+	border-color: #000058;
+	border-style: solid;
+	border-radius: 5px;
+	
+}
+#box1{
+	width: 1590px;
+	height:135px;
+	float:left;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #DFBC25;
+	/*margin: 15px 0 0 30px;*/
+}
+#logo{
+	width: 110px;
+	height:110px;
+	margin: 5px 0 0 42px;
+	cursor: pointer;
+	text-decoration:none;
+}
+#log_crowd{
+
+	width:95px;
+	height:95px;
+	float:left;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #DF7F25;
+}
+#slogan{
+	width: 150px;
+	height:30px;
+	float:left;
+	margin: -11px 0 0 16px;
+	text-align:center;
+	color: red;
+	border-radius: 3px;
+	border-style: solid;
+	background-color:white;
+	border-width: 1px;
+	border-color: #DF7F25;
+}
+
+#Lang{
+	width: 170px;
+	height:15px;
+	float:right;
+	
+}
+
+#Lang a{
+	color:#181818;
+	border-radius:4px;
+	display:inline-block;
+	text-decoration:none;
+	width:120%}
+
+#Lang a:hover {
+	color:#76B619;
+}
+
+#active{
+	text-align:center;
+	border:1px solid #76B619;
+	padding-right:2px;
+}
+
+
+#B_rech{
+	width: 290px;
+	height: 20px;
+	float:left;
+	margin: -50px 0 0 130px;
+} 
+
+.continer_header{
+	width:1590px;
+	height:40px;
+	float:left;
+	margin: 5px 0 0 0;
+ 	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+}
+
+#thug1{
+	float:left;
+	width:700px;
+	height:40px;	
+	border-style: solid;
+	border-width: 2px;
+	border-color: green;
+	
+}
+
+#thug2{
+	float:left;
+	width:1000px;
+	height:40px;	
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
+}
+
+.head_lien1{
+	float: left;
+	list-style: outside none none;
+    list-style-type: none;
+    list-style-image: none;
+    list-style-position: outside;
+}
+
+.head_lien1 a:hover {
+    border-left: 4px solid #FFF;
+    border-radius: 0px 4px 4px 0px;
+    padding: 0px 6px 3px 3px;
+    font-size: 1.25em;
+    margin-left: 2px;
+  /*  text-shadow: 0px 1px #CCC, 2px 3px #666;*/
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+}
+.head_lien1 a {
+    text-decoration: none;
+    color: #FFF;
+   /* border-color: #76B619;*/
+    padding: 0px 0px 0px 5px;
+    transition: all 0.8s ease 0s;
+}
+#connexion{
+margin:0 0 0 210px;
+}

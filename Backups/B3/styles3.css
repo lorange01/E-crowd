@@ -1,0 +1,95 @@
+@import url('http://fonts.googleapis.com/css?family=Oswald:300,400:latin,latin-ext');
+
+
+body{
+background-image:url(../images/blur2.jpg);
+background-repeat:no-repeat;
+}
+
+
+.container{
+background-image:url(../images/image_header.jpeg);
+background-repeat:no-repeat;
+background-size: cover;
+height:435px;
+
+}
+
+.navbar a{
+  font-family:'Oswald',arial narrow,sans-serif;
+ 
+}
+.navbar-bright a, .navbar-bright .navbar-brand{
+  color:#FFF;
+  font-size:16px;
+  text-transform: uppercase;
+  letter-spacing:.08em;
+}
+.navbar-bright li > a:hover {
+    opacity: 0.25;
+    color: #000;
+}
+.navbar-nav{
+float:right;
+margin: 10px 0 0 0;
+
+}
+#size_logo{
+height:auto;
+max-width:85%;
+}
+.icon-bar {
+  background-color:#fff;
+}
+.navbar-toggle {
+float:right;
+  color:white;
+  border-width:0;
+}
+.navbar-toggle:hover {
+  background-color:#fff;
+}
+.navbar-form input, .form-inline input {
+  width:auto;
+}
+
+
+#circle_log{
+
+ max-width:40%;
+  height:auto;
+
+  }
+  .circle_logo{
+
+text-align:center;
+
+  }
+.space{
+
+height:74px;
+}
+
+  h3{
+  font-family:'Oswald',arial narrow,sans-serif;
+  text-align: center;
+  font-size:18px;
+  color:#4D4D4D;
+}
+
+.join_us{
+text-align:center;
+}
+.btn-danger a {
+color :#FFF;
+
+}
+.btn-danger {
+background-color: #977A70;
+border-color:#7C61FF;
+}
+  
+  
+  
+  
+

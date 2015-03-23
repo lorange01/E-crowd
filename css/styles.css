@@ -1,0 +1,124 @@
+/* override bootstrap styles */
+@import url('http://fonts.googleapis.com/css?family=Oswald:300,400:latin,latin-ext');
+
+.navbar-form input, .form-inline input {
+  width:auto;
+}
+
+body{
+background-color: #848484;
+
+
+}
+header{
+height:435px;
+ width:auto;
+}
+.logo{
+height:150px;
+width:370px;
+float:left;
+}
+
+#size_logo{
+height:100px;
+width:315px;
+margin: -10px 0 0 44px;
+}
+.container{
+background-image:url(../images/image_header.jpeg);
+background-repeat:no-repeat;
+height:435px;
+}
+
+.navbar a{
+  font-family:'Oswald',arial narrow,sans-serif;
+}
+
+a,a:hover {
+  color:#223344;
+  text-decoration:none;
+}
+
+.icon-bar {
+  background-color:#fff;
+}
+
+.navbar-bright {
+
+  color:#fff;
+  border-width: 0;
+}
+
+.navbar-bright a, .navbar-bright .navbar-brand{
+  color:#fff;
+  font-size:14px;
+  text-transform: uppercase;
+  letter-spacing:.08em;
+}
+
+.navbar-bright li > a:hover {
+ opacity: 0.25;
+ color:black;
+}
+
+.dropdown-menu {
+  min-width: 250px;
+}
+
+.caret {
+  color:#fff;
+}
+
+.navbar-toggle {
+  color:#fff;
+  border-width:0;
+}
+
+.navbar-toggle:hover {
+  background-color:#fff;
+}
+
+
+.navbar-nav{
+float:LEFT;
+}
+#nav_position{
+height:50px;
+width:500px;
+float:left;
+margin: 20px 0 0 245px;
+
+}
+
+#join_us{
+float:left;
+margin:auto;
+width: 300px;
+height:300px;
+margin:20px 0 0 45px;
+}
+
+#circ-logo{
+
+ background-image:url(../images/circ_ecrowd.png);
+background-repeat:no-repeat;
+  border-radius:50%;
+  width:160px;
+  height:160px;
+  margin:auto;
+}
+.Ecrowd_logo_circ{
+  border-radius:50%;
+  width:160px;
+  height:160px;
+ 
+
+}
+h3{
+  font-family:'Oswald',arial narrow,sans-serif;
+  text-align: center;
+  font-size:18px;
+  color:#4D4D4D;
+}
+

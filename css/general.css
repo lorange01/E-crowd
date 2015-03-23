@@ -1,0 +1,14 @@
+body{
+	width: 1980px;
+	height:1080px;
+	background:  no-repeat url('../images/background.jpg');
+
+	font-family: comic sans MS;
+	color: #221401;
+	margin:0 auto;
+	/*border-width: 3px 3px 3px 3px;
+	border-color: #FFFFFF;
+	border-style: solid;
+	border-radius: 5px;*/
+
+}

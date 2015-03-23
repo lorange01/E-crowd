@@ -1,0 +1,19 @@
+header{
+background-image:url(../images/image_header.jpg);
+background-repeat:no-repeat;
+
+}
+#logo{
+width:180px;
+height:70px;
+float:left;
+}
+
+#list-header{
+float:left;
+list-style:none;
+}
+#img-taille{
+	width:18px ;
+	height:15px ;
+}
