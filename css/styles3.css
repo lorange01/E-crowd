@@ -8,11 +8,11 @@ background-color:#1C121A;
 }
 
 
-.container{
-background-image:url(../images/image_header.jpeg);
+.first2{
+background-image:url(../images/home2.jpg);
 background-repeat:no-repeat;
 background-size: cover;
-height:435px;
+height:485px;
 
 }
 
@@ -40,6 +40,9 @@ margin: 10px 0 0 0;
 height:auto;
 max-width:85%;
 }
+.connexion a{
+font-size: 14px;
+}
 .icon-bar {
   background-color:#fff;
 }
@@ -58,7 +61,7 @@ float:right;
 
 #circle_log{
 
- max-width:40%;
+ max-width:15%;
   height:auto;
 
   }
@@ -76,7 +79,7 @@ height:74px;
   font-family:'Oswald',arial narrow,sans-serif;
   text-align: center;
   font-size:18px;
-  color:#4D4D4D;
+  color:#7C61FF;
 }
 
 .join_us{
@@ -88,7 +91,7 @@ text-decoration:none;
 }
 .btn-danger {
 background-color: #977A70;
-border-color:#7C61FF
+border-color:#FFF
 }
   
   
