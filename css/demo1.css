@@ -8,7 +8,7 @@ height:auto;
 background-image:url(../images/Triangle-Shapes.jpg);
 background-repeat:no-repeat;
 background-size:cover;
-
+height:auto;
 }
 #conteneur2_h3{
 color:#FFF;
@@ -59,4 +59,7 @@ text-decoration:none;
 .end_footer{
 background-color: #7F6F6F;
 height:45px;
+}
+.end_footer1{
+text-align: center;
 }

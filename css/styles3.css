@@ -2,23 +2,26 @@
 
 
 body{
-/**background-image:url(../images/Blurred-Lights.jpg);
-background-repeat:no-repeat;**/
+
 background-color:#1C121A;
 }
 
 
 .first2{
-background-image:url(../images/home2.jpg);
+
+background-image:url(../images/home-fond.png);
 background-repeat:no-repeat;
 background-size: cover;
-height:485px;
+height:620px;
 
 }
 
+.navbar li > a:hover{
+ background-color:#0DC895;
+}
 .navbar a{
   font-family:'Oswald',arial narrow,sans-serif;
- 
+
 }
 .navbar-bright a, .navbar-bright .navbar-brand{
   color:#FFF;
@@ -68,7 +71,8 @@ float:right;
   .circle_logo{
 
 text-align:center;
-
+position: relative;
+bottom:100px;
   }
 .space{
 
@@ -79,7 +83,7 @@ height:74px;
   font-family:'Oswald',arial narrow,sans-serif;
   text-align: center;
   font-size:18px;
-  color:#7C61FF;
+  color:#FFF;
 }
 
 .join_us{
@@ -90,7 +94,7 @@ color :#FFF;
 text-decoration:none;
 }
 .btn-danger {
-background-color: #977A70;
+background-color: #0DC895;
 border-color:#FFF
 }
   
