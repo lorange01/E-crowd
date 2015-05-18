@@ -76,18 +76,6 @@
 	<div class ="kemar">
 			<div id="cbp-so-scroller" class="cbp-so-scroller">
 			
-			
-
-				
-				<!--<section class="cbp-so-section">
-					<article class="cbp-so-side cbp-so-side-left">
-						<h2>Teaser Vidéo</h2>
-						<p>Soufflé bonbon jelly cotton candy liquorice dessert jelly bear claw candy canes. Pudding halvah bonbon marzipan powder. Marzipan gingerbread sweet jelly.</p>
-					</article>
-					<figure class="cbp-so-side cbp-so-side-right">
-						<img src="../images/images_png/Marc_events.png" alt="teaser"/>
-					</figure>
-				</section>-->
 				
 				<section class="cbp-so-section">
 					<article class="cbp-so-side cbp-so-side-left">
