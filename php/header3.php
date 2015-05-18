@@ -9,6 +9,9 @@
 		<link href="../css/styles3.css" rel="stylesheet">
 		<link href="../css/demo1.css" rel="stylesheet">
 		<link rel="stylesheet"  href="../css/component.css" />
+		
+
+		<script src="js/modernizr.custom.js"></script>
 
 		<!-- Load JavaScript Libraries -->
 		<script src="../js/jquery.min.js"></script>
@@ -72,6 +75,9 @@
 	</div>
 	<div class ="kemar">
 			<div id="cbp-so-scroller" class="cbp-so-scroller">
+			
+			
+
 				
 				<!--<section class="cbp-so-section">
 					<article class="cbp-so-side cbp-so-side-left">
@@ -123,10 +129,17 @@
 						<p>Lollipop powder danish sugar plum caramels liquorice sweet cookie. Gummi bears caramels gummi bears candy canes cheesecake sweet roll icing dragée. Gummies jelly-o tart. Cheesecake unerdwear.com candy canes apple pie halvah chocolate tiramisu.</p>
 					</article>
 				</section>-->
+<<<<<<< HEAD
 				
 
 
 				
+=======
+				
+
+
+				
+>>>>>>> origin/master
 			</div>
 			<script src="../js/classie.js"></script>
 				<script src="../js/cbpScroller.js"></script>
@@ -141,6 +154,19 @@
 					<div class="col-xs-12 ">
 						<h3 id="conteneur2_h3">FREELANCES DU SECTEUR WEB</h3>
 					</div>
+<<<<<<< HEAD
+=======
+					</div>
+					<div class="row on end_footer1">
+					
+					<div class="col-xs-12 ">
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-dev.png"/><br/>Developpement</a></div>	
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-brush.png"/><br/>Création &amp; Design</a></div>	
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-cogwheels.png"/><br/>Gestion de Projet</a></div>	
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-stats.png"/><br/>Communication &amp; Marketing</a></div>	
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-activity.png"/><br/>Production &amp; Gestion de contenu</a></div>	
+						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-router.png"/><br/>Réseaux</a></div>		
+>>>>>>> origin/master
 					</div>
 					<div class="row on end_footer1">
 					
@@ -152,7 +178,10 @@
 						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-activity.png"/><br/>Production &amp; Gestion de contenu</a></div>	
 						<div class="col-xs-2 on coloneList1"><a href="#"><img class="glyphi" src="../images/glyphicons/png/glyphicons-router.png"/><br/>Réseaux</a></div>		
 					</div>
+<<<<<<< HEAD
 					</div>
+=======
+>>>>>>> origin/master
 					
 	</div>
 	

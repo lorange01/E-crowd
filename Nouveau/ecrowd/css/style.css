@@ -1,0 +1,55 @@
+body {
+
+background: #fff;
+
+}
+	
+	
+	
+	
+
+/*-----------------------VIDEO-------------------------*/
+
+video#bgvid {
+
+position: relative; 
+right: 0; 
+bottom: 0;
+min-width: 100%; 
+min-height: 100%;
+width: 100%;
+height: auto;
+z-index: -100;
+
+
+}
+
+/*-----------------------LOGO HOME ECROWD / VIDEO-------------------------*/
+
+
+#logo-home {
+
+	position: relative;
+	margin-top:-800px;
+	margin-left: 5%;
+
+}
+
+/*----------------------- ICONS SLIDE 2 -------------------------*/
+
+#grp_icon {
+
+	position: relative;
+	margin-top: 50px;
+	margin-left: 30%;
+
+}
+
+
+/*----------------------- FOOTER -------------------------*/
+
+footer {
+
+	text-align: center;
+	font-family : Arial;
+}
