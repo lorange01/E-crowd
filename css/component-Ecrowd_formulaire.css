@@ -17,7 +17,7 @@
 	left: 0;
 	margin: 0;
 	padding: 40px;
-	width: 100%;
+	width: 100% ;
 }
 
 .fs-title h1 {
@@ -183,6 +183,8 @@ button.fs-continue,
 	padding: 0 5px 1em 0;
 	font-weight: 700;
 	pointer-events: none;
+	font-size: 40px;
+	margin: 100px 0 0 0;
 }
 
 .fs-form-full .fs-fields > li label[data-info]::after {

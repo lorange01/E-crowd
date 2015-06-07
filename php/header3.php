@@ -67,7 +67,7 @@
 				<div class="col-xs-4.centered">
 				<img id="circle_log" src="../images/images_png/logo-home.png"/>
 				<h3> BIENVENUE SUR LA PLATEFORME COLLABORATIVE DES FREELANCES DU DIGITAL</h3>
-				<button type="button" class="btn btn-danger"><a href="../html/Ecrowd_inscription.html">REJOIGNEZ-NOUS</a></button>
+				<button type="button" class="btn btn-danger"><a href="../html/EcrowdInscription.html">REJOIGNEZ-NOUS</a></button>
 				</div>  
 				</div>
 				
